@@ -1,0 +1,10 @@
+Protocol  Address          Age (min)  Hardware Addr   Type   Interface
+Internet  10.88.112.254           -   e4d3.f1f0.f0a0  ARPA   GigabitEthernet0/0.10
+Internet  10.88.112.79            7   00c0.b2d3.8faf  ARPA   GigabitEthernet0/0.10
+Internet  10.88.112.174          69   00c0.b433.23ae  ARPA   GigabitEthernet0/0.10
+Internet  10.88.112.59           60   00c0.b833.23a3  ARPA   GigabitEthernet0/0.10
+Internet  10.88.112.78          113   00c0.b133.23af  ARPA   GigabitEthernet0/0.10
+Internet  10.88.112.189          79   00c0.b333.30a3  ARPA   GigabitEthernet0/0.10
+Internet  10.88.112.80            9   00c0.b133.23ab  ARPA   GigabitEthernet0/0.10
+Internet  10.88.112.22            2   9890.96c0.8ba1  ARPA   GigabitEthernet0/0.10
+
